@@ -57,13 +57,6 @@ Need help using CommandWise? Here's how to get assistance:
 2. Search [existing issues](../../issues) - your question might already be answered
 3. Create a new [support issue](../../issues/new) with details about what you need help with
 
-## 📦 Installation
-
-CommandWise is available on WordPress.org:
-
-- [Download from WordPress.org](https://wordpress.org/plugins/commandwise/)
-- Or install directly from your WordPress admin: **Plugins → Add New → Search "CommandWise"**
-
 ## 🤝 Contributing
 
 While this is primarily a support repository, we welcome contributions! Here's how you can help:
@@ -82,7 +75,7 @@ CommandWise is released under the GPL v2 or later license.
 
 - [Plugin Homepage](https://wpcommandwise.com)
 - [WordPress.org Plugin Page](https://wordpress.org/plugins/commandwise/)
-- [Documentation](https://wpcommandwise.com/docs)
+- [Documentation](https://doc.wpcommandwise.com)
 - [Changelog](CHANGELOG.md)
 
 ## 💡 Stay Connected
